@@ -1,5 +1,5 @@
 # Ignacio Delgado
-Senior Android Developer | Hackerspace Organizer
+Senior Android Developer
 
 ## About Me
 - 🚀 4+ years in Android development, focus on fintech
