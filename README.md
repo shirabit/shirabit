@@ -14,7 +14,7 @@ Senior Android Developer
 - Agile, Scrum, Kanban
 
 ## Community Projects
-- **Hackerspace Valencia**: Organizer, mentor, and project lead
+- [**Hackerspace Valencia**](https://hackvlc.es): Organizer, mentor, and project lead
 - [**Hackapet**](https://github.com/hackapet-project): Shelter management system for animal adoption
 
 ## Connect
