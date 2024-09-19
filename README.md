@@ -15,7 +15,7 @@ Senior Android Developer
 
 ## Community Projects
 - **Hackerspace Valencia**: Organizer, mentor, and project lead
-- **Hackapet**: Shelter management system for animal adoption
+- [**Hackapet**](https://github.com/hackapet-project): Shelter management system for animal adoption
 
 ## Connect
 - [Website](https://igdel.com)
