@@ -1,10 +1,10 @@
 # Ignacio Delgado
-Senior Android Developer
+Hardware | Software
 
 ## About Me
 - 🚀 4+ years in Android development, focus on fintech
-- 🌐 Fluent in Spanish, English, French, German, Catalan
-- 💡 Passionate about mobile dev
+- 🌐 Fluent in Spanish, English, French, Catalan. Learning German and some other languages.
+- 💡 Passionate about mobile dev and AI.
 - 🤝 Tech community speaker and mentor
 
 ## Skills
@@ -18,9 +18,9 @@ Senior Android Developer
 - [**Hackapet**](https://github.com/hackapet-project): Shelter management system for animal adoption
 
 ## Connect
-- [Website](https://igdel.com)
-- [LinkedIn](https://www.linkedin.com/in/igdel/)
-- [GitHub](https://github.com/igdel)
+- [Website](https://ignaciodelgado.com)
+- [LinkedIn](https://www.linkedin.com/in/nadecc/)
+- [GitHub](https://github.com/shirabit)
 - [Email](mailto:me@igdel.com)
 
 Open to innovative projects and collaborations.
